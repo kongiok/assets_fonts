@@ -1,0 +1,39 @@
+/*
+  LXGW WenKai TC
+*/
+
+@font-face {
+  font-family: "LXGWWenKaiTC";
+  font-weight: normal;
+  src: url("serif/lxgw-wenkai-tc/LXGWWenKaiTC-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "LXGWWenKaiTC";
+  font-weight: bold;
+  src: url("serif/lxgw-wenkai-tc/LXGWWenKaiTC-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "LXGWWenKaiTC";
+  font-style: light;
+  src: url("serif/lxgw-wenkai-tc/LXGWWenKaiTC-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "LXGWWenKaiTC-Mono";
+  font-weight: normal;
+  src: url("serif/lxgw-wenkai-tc/LXGWWenKaiMonoTC-Regular.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "LXGWWenKaiTC-Mono";
+  font-weight: bold;
+  src: url("serif/lxgw-wenkai-tc/LXGWWenKaiMonoTC-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "LXGWWenKaiTC-Mono";
+  font-style: light;
+  src: url("serif/lxgw-wenkai-tc/LXGWWenKaiMonoTC-Light.ttf") format("truetype");
+}

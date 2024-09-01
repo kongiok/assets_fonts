@@ -11,6 +11,7 @@ Note that src paths in `fonts.css` are relative to source files in the repositor
 # Fonts
 
 ## Serif Fonts
+- [LXGW Wen Kai Traditional Chinese](https://github.com/lxgw/LxgwWenkaiTC.git)
 
 ## Sans-serif Fonts
 
@@ -22,3 +23,6 @@ Note that src paths in `fonts.css` are relative to source files in the repositor
 
 The License section broadly displays the Copyright information.
 For more details, please refer to the License file within the Fonts directories.
+
+## Serif Fonts
+- **LXGW Wen Kai Traditional Chinese**: Under SIL Open Font License 1.1, Copyright 2022-2024 LXGW, Copyright 2020, The Klee Project Authors.
