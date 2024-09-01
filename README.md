@@ -19,6 +19,7 @@ Note that src paths in `fonts.css` are relative to source files in the repositor
 - [GenSekiGothic](https://github.com/ButTaiwan/genseki-font.git)
 
 ## Monospace Fonts
+- [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono.git)
 
 ## Handwriting Fonts
 
@@ -32,5 +33,11 @@ For more details, please refer to the License file within the Fonts directories.
 - **GenRyuMin**: Under SIL Open Font License 1.1, Copyright 2014-2019 Adobe.
 - **Iansui**: Under SIL Open Font License 1.1, Copyright 2022 But Ko, 2020 The Klee Project Authors.
 
+
+## Monospace Fonts
+- **JetBrains Mono**: Under SIL Open Font License 1.1, Copyright 2020 The JetBrains Mono Project Authors (
+JetBrains, Philipp Nurullin, Konstantin Bulenkov).
+
 ## Sans-serif Fonts
 - **GenSekiGothic**: Under SIL Open Font License 1.1, Copyright 2014-2019 Adobe.
+

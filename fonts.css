@@ -95,6 +95,25 @@
 }
 
 /*
+  JetBrains Mono
+*/
+
+@font-face {
+  font-family: "JetBrainsMono";
+  font-weight: 100 900;
+  src: url("monospace/JetBrainsMono/variable/JetBrainsMono[wght].ttf")
+    format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "JetBrainsMono";
+  font-weight: 100 900;
+  src: url("monospace/JetBrainsMono/variable/JetBrainsMono-Italic[wght].ttf");
+  font-style: italic;
+}
+
+/*
   Gen Seki Gothic
 */
 
