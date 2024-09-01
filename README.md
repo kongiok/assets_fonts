@@ -10,6 +10,14 @@ Note that src paths in `fonts.css` are relative to source files in the repositor
 
 # Fonts
 
+## Serif Fonts
+
+## Sans-serif Fonts
+
+## Monospace Fonts
+
+## Handwriting Fonts
+
 # License
 
 The License section broadly displays the Copyright information.
