@@ -93,3 +93,37 @@
   font-weight: 800;
   src: url("serif/GenRyuMin2TC/GenRyuMin2TC-SB.otf");
 }
+
+/*
+  Gen Seki Gothic
+*/
+
+@font-face {
+  font-family: "GenSekiGothic";
+  font-weight: 300;
+  src: url("sans/GenSekiGothic/GenSekiGothic2TC-L.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "GenSekiGothic";
+  font-weight: 400;
+  src: url("sans/GenSekiGothic/GenSekiGothic2TC-R.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "GenSekiGothic";
+  font-weight: 500;
+  src: url("sans/GenSekiGothic/GenSekiGothic2TC-M.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "GenSekiGothic";
+  font-weight: 600;
+  src: url("sans/GenSekiGothic/GenSekiGothic2TC-H.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "GenSekiGothic";
+  font-weight: 700;
+  src: url("sans/GenSekiGothic/GenSekiGothic2TC-B.otf") format("opentype");
+}
