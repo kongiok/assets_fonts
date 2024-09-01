@@ -96,7 +96,7 @@
 
 /*
   JetBrains Mono
- */
+*/
 
 @font-face {
   font-family: "JetBrainsMono";
@@ -111,4 +111,38 @@
   font-weight: 100 900;
   src: url("monospace/JetBrainsMono/variable/JetBrainsMono-Italic[wght].ttf");
   font-style: italic;
+}
+
+/*
+  Gen Seki Gothic
+*/
+
+@font-face {
+  font-family: "GenSekiGothic";
+  font-weight: 300;
+  src: url("sans/GenSekiGothic/GenSekiGothic2TC-L.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "GenSekiGothic";
+  font-weight: 400;
+  src: url("sans/GenSekiGothic/GenSekiGothic2TC-R.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "GenSekiGothic";
+  font-weight: 500;
+  src: url("sans/GenSekiGothic/GenSekiGothic2TC-M.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "GenSekiGothic";
+  font-weight: 600;
+  src: url("sans/GenSekiGothic/GenSekiGothic2TC-H.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "GenSekiGothic";
+  font-weight: 700;
+  src: url("sans/GenSekiGothic/GenSekiGothic2TC-B.otf") format("opentype");
 }
