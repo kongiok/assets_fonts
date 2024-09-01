@@ -39,6 +39,16 @@
 }
 
 /*
+  Iansui
+*/
+
+@font-face {
+  font-family: "Iansui";
+  font-weight: 400;
+  src: url("serif/iansui/Iansui-Regular.ttf") format("truetype");
+}
+
+/*
   Gen Ryu Min
 */
 
