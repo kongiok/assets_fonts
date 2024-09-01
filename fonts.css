@@ -37,3 +37,49 @@
   font-style: light;
   src: url("serif/lxgw-wenkai-tc/LXGWWenKaiMonoTC-Light.ttf") format("truetype");
 }
+
+/*
+  Gen Ryu Min
+*/
+
+@font-face {
+  font-family: "GenRyuMin";
+  font-weight: 200;
+  src: url("serif/GenRyuMin2TC/GenRyuMin2TC-EL.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "GenRyuMin";
+  font-weight: 300;
+  src: url("serif/GenRyuMin2TC/GenRyuMin2TC-L.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "GenRyuMin";
+  font-weight: 400;
+  src: url("serif/GenRyuMin2TC/GenRyuMin2TC-R.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "GenRyuMin";
+  font-weight: 500;
+  src: url("serif/GenRyuMin2TC/GenRyuMin2TC-M.otf");
+}
+
+@font-face {
+  font-family: "GenRyuMin";
+  font-weight: 600;
+  src: url("serif/GenRyuMin2TC/GenRyuMin2TC-H.otf");
+}
+
+@font-face {
+  font-family: "GenRyuMin";
+  font-weight: 700;
+  src: url("serif/GenRyuMin2TC/GenRyuMin2TC-B.otf");
+}
+
+@font-face {
+  font-family: "GenRyuMin";
+  font-weight: 800;
+  src: url("serif/GenRyuMin2TC/GenRyuMin2TC-SB.otf");
+}
