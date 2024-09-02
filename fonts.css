@@ -146,3 +146,16 @@
   font-weight: 700;
   src: url("sans/GenSekiGothic/GenSekiGothic2TC-B.otf") format("opentype");
 }
+
+@font-face {
+  font-family: "Chenyuluoyan";
+  font-weight: normal;
+  src: url("handwrite/Chenyuluoyan/ChenYuluoyan-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Chenyuluoyan-mono";
+  font-weight: normal;
+  src: url("handwrite/Chenyuluoyan/ChenYuluoyan-Thin-Monospaced.ttf")
+    format("truetype");
+}

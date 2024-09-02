@@ -22,6 +22,7 @@ Note that src paths in `fonts.css` are relative to source files in the repositor
 - [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono.git)
 
 ## Handwriting Fonts
+- [ChenYuLuoYan](https://github.com/Chenyu-otf/chenyuluoyan_thin.git)
 
 # License
 
@@ -41,3 +42,5 @@ JetBrains, Philipp Nurullin, Konstantin Bulenkov).
 ## Sans-serif Fonts
 - **GenSekiGothic**: Under SIL Open Font License 1.1, Copyright 2014-2019 Adobe.
 
+## Handwriting Fonts
+- **Chenyuluoyan**: Under SIL Open Font License 1.1, copyright 2022, Wang, Li-Yu and Liu, Wei-Chen with Reserved Font Name "辰宇落雁" and "Chenyuluoyan".
